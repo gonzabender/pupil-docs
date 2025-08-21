@@ -16,8 +16,8 @@ Construir una extensión para **Visual Studio Code** que permita editar código 
 - VSCode API
 
 ## 📚 Documentación
-- [Arquitectura](docs/arquitectura.md)
-- [Guía de instalación](docs/instalacion.md)
-- [Roadmap](docs/roadmap.md)
-- [Decisiones técnicas](docs/decisiones.md)
+- [Arquitectura](https://github.com/gonzabender/pupil-docs/wiki/Arquitectura)
+- [Guía de instalación](https://github.com/gonzabender/pupil-docs/wiki/Instalacion)
+- [Roadmap](https://github.com/gonzabender/pupil-docs/wiki/Roadmap)
+- [Decisiones técnicas](https://github.com/gonzabender/pupil-docs/wiki/Decisiones-Tecnicas)
 
