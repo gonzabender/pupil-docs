@@ -1,9 +1,9 @@
 # pupil-docs
 # Pupil (Repositorio central)
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://i.postimg.cc/7D8J7LTG/9cc4e3aa-2c2c-49d5-89e8-f3db0998a95e.png" width="200">
-</div>
+</p>
 Este repositorio es el **punto central de comunicación y documentación** del proyecto.  
 El código fuente está en otro repositorio ([Pupil](https://github.com/matiasaduco/pupil)).
 
